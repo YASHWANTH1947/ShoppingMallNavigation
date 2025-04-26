@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mall Navigation</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="logo">Mall Navigator</div>
+            <div class="nav-links">
+                <a href="#" class="active" data-nav="home">Home</a>
+                <a href="#" data-nav="floors">Floors</a>
+                <a href="#" data-nav="directory">Directory</a>
+                <a href="#" data-nav="services">Services</a>
+                <a href="#" data-nav="contact">Contact</a>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <h1>Welcome to Mall Navigator</h1>
+            <p>Choose your shopping category or floor to begin</p>
+        </section>
+
+        <section class="floors-section" id="floorsSection" style="display: none;">
+            <h2>Floor Navigation</h2>
+            <div class="floors-grid">
+                <div class="floor-card" data-floor="1">
+                    <i class="fas fa-building"></i>
+                    <h3>1st Floor</h3>
+                    <p>Ground Level</p>
+                </div>
+                <div class="floor-card" data-floor="2">
+                    <i class="fas fa-building"></i>
+                    <h3>2nd Floor</h3>
+                    <p>Level 2</p>
+                </div>
+                <div class="floor-card" data-floor="3">
+                    <i class="fas fa-building"></i>
+                    <h3>3rd Floor</h3>
+                    <p>Level 3</p>
+                </div>
+                <div class="floor-card" data-floor="4">
+                    <i class="fas fa-building"></i>
+                    <h3>4th Floor</h3>
+                    <p>Level 4</p>
+                </div>
+                <div class="floor-card" data-floor="5">
+                    <i class="fas fa-building"></i>
+                    <h3>5th Floor</h3>
+                    <p>Level 5</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="categories" id="categoriesSection">
+            <h2>Categories</h2>
+            <div class="category-grid">
+                <div class="category-card" data-category="fashion">
+                    <i class="fas fa-tshirt"></i>
+                    <h3>Fashion & Clothing</h3>
+                    <p>Discover latest trends in fashion</p>
+                </div>
+
+                <div class="category-card" data-category="electronics">
+                    <i class="fas fa-laptop"></i>
+                    <h3>Electronics & Gadgets</h3>
+                    <p>Latest tech and gadgets</p>
+                </div>
+
+                <div class="category-card" data-category="food">
+                    <i class="fas fa-utensils"></i>
+                    <h3>Food Court</h3>
+                    <p>Restaurants and cafes</p>
+                </div>
+
+                <div class="category-card" data-category="beauty">
+                    <i class="fas fa-spa"></i>
+                    <h3>Beauty & Wellness</h3>
+                    <p>Cosmetics and personal care</p>
+                </div>
+
+                <div class="category-card" data-category="entertainment">
+                    <i class="fas fa-film"></i>
+                    <h3>Entertainment</h3>
+                    <p>Movies and games</p>
+                </div>
+
+                <div class="category-card" data-category="home">
+                    <i class="fas fa-home"></i>
+                    <h3>Home & Living</h3>
+                    <p>Furniture and decor</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="mall-map" id="mallMap">
+            <!-- Mall map will be displayed here when a category or floor is selected -->
+        </section>
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <div class="footer-section">
+                <h4>Mall Hours</h4>
+                <p>Monday - Sunday: 10:00 AM - 9:00 PM</p>
+            </div>
+            <div class="footer-section">
+                <h4>Contact</h4>
+                <p>Email: info@mallnavigator.com</p>
+                <p>Phone: (555) 123-4567</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+
+</html>
