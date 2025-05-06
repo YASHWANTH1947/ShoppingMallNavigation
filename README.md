@@ -1,25 +1,37 @@
-LINK TO WEBSITE:
-   https://shopping-mall-navigation.vercel.app/
-PROJECT TITLE: Shopping mall navigation software
-Team Members: KR Yashwanth Reddy
-SHORT PROJECT DESCRIPTION:
-Our shopping mall navigation project likely addresses a common challenge faced by visitors: efficiently finding their way through large, complex retail environments.
-A well-designed mall navigation system would:
--Help visitors locate specific stores, amenities, and services
--Provide efficient routing between destinations
--Reduce visitor frustration and improve overall shopping experience
--Support accessibility needs for various users
--Potentially integrate with mobile technology for personalized guidance
+# Shopping Mall Navigation Software
 
-LINK TO VIDEO EXPLANATION:
+## Project Overview
+A user-friendly navigation system designed to help visitors efficiently find their way through large shopping malls.
 
+**Project Link:** [Shopping Mall Navigation](https://shopping-mall-navigation.vercel.app/)
 
-TECHNOLOGIES USED: HTML, CSS , JAVASRIPT , VERCEL, GIT , GITHUB
+## Developer
+- KR Yashwanth Reddy
 
-STEPS TO RUN:
--FORK THE GITHUB REPO
--CLONE IT ON YOUR COMPUTER
--RUN THE INDEX.HTML FILE ON CHROME
+## Project Description
+This shopping mall navigation solution addresses the common challenge of efficiently navigating through large, complex retail environments. The system provides:
+
+- Easy location of specific stores, amenities, and services
+- Efficient routing between destinations
+- Improved overall shopping experience with reduced frustration
+- Accessibility support for various user needs
+- Mobile-friendly interface for personalized guidance
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Vercel
+- Git
+- GitHub
+
+## Installation and Setup
+1. Fork the GitHub repository
+2. Clone it to your local machine
+3. Open the index.html file in Chrome or any modern browser
+
+## Additional Resources
+- [Video Explanation](add-your-video-link-here)
 
 
 
