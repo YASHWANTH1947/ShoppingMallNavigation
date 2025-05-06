@@ -5,8 +5,11 @@ A user-friendly navigation system designed to help visitors efficiently find the
 
 **Project Link:** [Shopping Mall Navigation](https://shopping-mall-navigation.vercel.app/)
 
-## Developer
+## Developers
 - KR Yashwanth Reddy
+- Bapender Rathi
+- Aadittyanath Saini
+- Netra Prakash
 
 ## Project Description
 This shopping mall navigation solution addresses the common challenge of efficiently navigating through large, complex retail environments. The system provides:
@@ -16,6 +19,10 @@ This shopping mall navigation solution addresses the common challenge of efficie
 - Improved overall shopping experience with reduced frustration
 - Accessibility support for various user needs
 - Mobile-friendly interface for personalized guidance
+
+## Additional Resources( Video link and pdf file link)
+- [Video Explanation](https://drive.google.com/file/d/1ylRWE3YsOvNs4TgRTlNUAr0XqmLT0Nz8/view?usp=drive_link)
+- [Detailed Project Report (PDF)](https://drive.google.com/file/d/143ERYIdA97N-5uj_RAs5-pBg2DdO_k_x/view?usp=drive_link)
 
 ## Technologies Used
 - HTML
@@ -29,9 +36,4 @@ This shopping mall navigation solution addresses the common challenge of efficie
 1. Fork the GitHub repository
 2. Clone it to your local machine
 3. Open the index.html file in Chrome or any modern browser
-
-## Additional Resources
-- [Video Explanation](add-your-video-link-here)
-
-
 
